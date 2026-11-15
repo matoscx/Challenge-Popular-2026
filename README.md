@@ -1,8 +1,8 @@
-# 📱 Popular sin Barreras
+# 📱 POPULAR SIN BARRERAS
 
 > *¿Cuánto vale la independencia financiera de una persona?*
 
-Este proyecto nace de una convicción profunda: la tecnología financiera debe ser verdaderamente inclusiva. **Popular sin Barreras** es una propuesta de diseño UI/UX y prototipo funcional creada para acercar la banca digital a adultos mayores y personas con discapacidad visual, eliminando las barreras de fricción y complejidad de las aplicaciones tradicionales.
+Este proyecto nace de una convicción profunda: la tecnología financiera debe ser verdaderamente inclusiva. **POPULAR SIN BARRERAS** es una propuesta de diseño UI/UX y prototipo funcional creada para acercar la banca digital a adultos mayores y personas con discapacidad visual, eliminando las barreras de fricción y complejidad de las aplicaciones tradicionales.
 
 Este trabajo fue galardonado con el **2.º Lugar Nacional en el Challenge Popular**, reconociendo el impacto social, la empatía en el diseño y la viabilidad de la solución.
 
